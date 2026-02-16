@@ -88,6 +88,4 @@ docker run -d -p 8000:8000 --name cat_container cat-api
 
 ---
 
-## Nota final
 
-Este proyecto fue desarrollado como parte de una prueba técnica. Puede mejorarse, pero cumple con los requerimientos principales: API REST, conexión externa, usuarios, autenticación y uso de Docker 
